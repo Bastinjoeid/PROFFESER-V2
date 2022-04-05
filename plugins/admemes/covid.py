@@ -46,7 +46,7 @@ Latitude : `{latitude}`
 Longitude : `{longitude}`
 Recovered : `{recovered}`
 
-Made by @lallu_tg ❤️"""
+Made by @Sovel_jaison ❤️"""
         return covid_info
     except Exception as error:
         return error
