@@ -1,30 +1,30 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚢 𝚗𝚊𝚖𝚎 , <a href='https://t.me/Proffeser_Z_bot'>𝗣𝗥𝗢𝗙𝗙𝗘𝗦𝗘𝗥</a>, 𝙸𝚝'𝚜 𝚟𝚎𝚛𝚢 𝚎𝚊𝚜𝚢 𝚓𝚞𝚜𝚝 𝚊𝚍𝚍 𝚖𝚎 𝚝𝚘 𝚢𝚘𝚞𝚛 𝚐𝚛𝚘𝚞𝚙 𝚊𝚗𝚍 𝚖𝚊𝚔𝚎 𝚖𝚎 𝚊𝚍𝚖𝚒𝚗, 𝚃𝚑𝚊𝚝𝚜 𝚊𝚕𝚕 𝙸'𝚕𝚕 𝚙𝚛𝚘𝚟𝚒𝚍𝚎 𝙼𝚞𝚜𝚒𝚌 𝚝𝚑𝚎𝚛𝚎 🤓
+𝙼𝚢 𝚗𝚊𝚖𝚎 , <a href='https://t.me/Proffeser_Z_bot'>𝗣𝗥𝗢𝗙𝗙𝗘𝗦𝗘𝗥</a>, 𝐈𝐓"𝐒 𝐕𝐄𝐑𝐘 𝐄𝐀𝐒𝐘 𝐉𝐔𝐒𝐓 𝐀𝐃𝐃 𝐌𝐄 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 𝐀𝐍𝐃 𝐌𝐀𝐊𝐄 𝐌𝐄 𝐀𝐃𝐌𝐈𝐍, 𝐒𝐎 𝐈 𝐂𝐀𝐍 𝐏𝐑𝐎𝐕𝐈𝐃𝐄 𝐌𝐎𝐕𝐈𝐄𝐒, 𝐒𝐎𝐍𝐆 ....🤓
 """
     HELP_TXT = """𝙷𝙴𝚈 {}
-𝘏𝘦𝘳𝘦 𝘐𝘴 𝘛𝘩𝘦 𝘏𝘦𝘭𝘱 𝘍𝘰𝘳 𝘔𝘺 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴."""
+ 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐇𝐄𝐋𝐏 𝐅𝐎𝐑 𝐌𝐘 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒."""
     ABOUT_TXT = """
 𝗧𝗛𝗜𝗦 𝗣𝗥𝗢𝗙𝗙𝗘𝗦𝗘𝗥'𝗦 𝗔𝗕𝗢𝗨𝗧 𝗠𝗦𝗚
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
 ╔════❰ ꪖ᥇ꪮꪊ𝓽 ꪑ𝘴ᧁ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
-║┣⪼ 𝙈𝙔 𝙉𝘼𝙈𝙀 - <a href="https://t.me/Proffeser_Z_bot"> 𝗣𝗥𝗢𝗙𝗙𝗘𝗦𝗘𝗥 </a>
-║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎1 - <a href="https://t.me/pro_editor_tg"> Lalluᵗᵍ </a>
-║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎2 - <a href="https://t.me/Proffeser_Z_bot"> ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋAsyn Editz </a>
-║┣⪼ 𝓛𝓲𝓫𝓻𝓪𝓻𝓻𝔂 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-║┣⪼ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-║┣⪼ 𝓓𝓪𝓽𝓪 𝓑𝓪𝓼𝓮 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-║┣⪼ 𝓑𝓸𝓽 𝓼𝓮𝓻𝓿𝓮𝓻 -  𝙷𝙴𝚁𝙾𝙺𝚄
-║┣⪼ 𝓑𝓾𝓲𝓵𝓭 𝓢𝓽𝓪𝓽𝓾𝓼 - v1.0.1 [ 𝙱𝙴𝚃𝙰 ]
+║┣⪼ 𝑀𝑌 𝑁𝐴𝑀𝐸 - <a href="https://t.me/Sovel_jaison"> J͓e͓n͓n͓y͓ B͓o͓t͓ </a>
+║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎1 - <a href="https://t.me/Sovel_jaison"> ѕσνєℓ נαιѕση </a>
+║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎2 - <a href="https://t.me/bastin_joe"> вαѕтιη נσє </a>
+║┣⪼ 𝐿𝐼𝐵𝑅𝐴𝑅𝑌 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
+║┣⪼ 𝐿𝐴𝑁𝐺𝑈𝐴𝐺𝐸 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
+║┣⪼ 𝐷𝐴𝑇𝐴𝐵𝐴𝑆𝐸 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
+║┣⪼ 𝐵𝑂𝑇 𝑆𝐸𝑅𝑉𝐸𝑅 -  𝙷𝙴𝚁𝙾𝙺𝚄
+║┣⪼ 𝐵𝑈𝐼𝐿𝐷 𝑆𝑇𝐴𝑇𝑈𝑆 - v1.0.1 [ 𝙱𝙴𝚃𝙰 ]
 ║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍⊱❁۪۪"""
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝑰 𝒂𝒎  𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 𝗣𝗥𝗢𝗙𝗙𝗘𝗦𝗘𝗥 V1
 - V2 IS CLOSED SOURCE 😉
-- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://github.com/madtoazenzio/PROFFESER"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
+- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://t.me/cinemahub00"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
 
 𝗠𝗔𝗦𝗧𝗘𝗥:
-<a href="https://t.me/Proffeser_Z_bot"> 𝑻𝑬𝑨𝑴 Z_Bots </a>"""
+<a href="https://t.me/Sovel_jaison"> ѕσνєℓ נαιѕση </a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 
@@ -259,7 +259,7 @@ This module only works for my admins
 
     FORCESUB_TXT = """**♦️ READ THIS INSTRUCTION ♦️**
 
-__🗣 In Order To Get The Music Requested By You in Our Groups, You Will Have To Join Our Official Channel First. After That, Try Accessing That Music Again From Our Group. I'll Send You That Music Privately 🙈__
+__🗣 In Order To Get The MOVIE Requested By You in Our Groups, You Will Have To Join Our Official Channel First. After That, Try Accessing That Music Again From Our Group. I'll Send You That Music Privately 🙈__
 
 **👇 JOIN THIS CHANNEL & TRY AGAIN 👇**"""
 
